@@ -1,0 +1,4 @@
+interface:
+  display_name: "互动式教程口播"
+  short_description: "把工具操作写成有互动、有反馈、自然推进的中文教程口播"
+  default_prompt: "使用 $write-interactive-tutorial-script 把我的工具流程写成一篇自然、有互动感、可跟练的中文口播稿。"

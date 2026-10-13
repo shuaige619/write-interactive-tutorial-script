@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "write-interactive-tutorial-script",
+  "source_version": "9b904052eb7a0b16ea4ae5e8fc0556a9abf688918859f17c94c72087119dd0d7",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "207d232e4f0cdf1b863b6b7121b69a17726c2df7d0aba4c5280799764078bedd",
+    "SKILL.md": "f63baac6c6fc50dea409d6cdc240d08dce88af35f9e987f174f624d55dc1cfdd",
+    "agents/openai.yaml": "4545056aab73ab41f31c192d074b2ea7432eadaa6bee94361a8b9d183ab1823f",
+    "references/interaction-patterns.md": "8a59a9dbce75fd023a6f80ae1a9b819da8e6aa4402ef878b52139cb703b4aad4"
+  }
+}
